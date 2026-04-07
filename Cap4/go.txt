@@ -1,0 +1,9 @@
+Vá usar variáveis de ambiente para sua configuração. Nesta seção, vamos detalhar alguns deles:
+
+    GOBIN: Por padrão, o Go colocará os programas compilados em $GOPATH/bin. Se você quiser substituir esse comportamento, você pode definir essa variável.
+
+    GOROOT: O caminho absoluto onde a distribuição Go está instalada (para Linux e usuário do macOS, é por padrão /usr/local/go).
+
+    GOHOSTOS: Este é o sistema operacional da cadeia de ferramentas Go
+
+    GOHOSTARCH: Esta é a arquitetura do sistema dos binários da cadeia de ferramentas Go
